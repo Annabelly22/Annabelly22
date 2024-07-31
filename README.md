@@ -12,7 +12,7 @@ I aim to continue learning about the different software, applications, and secur
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Enterprise Network        | <a href="https://github.com/Annabelly22/System-Administration-Net-Services-I---2022FA/wiki/Lab-01---Virtual-Firewall-and-Windows-10-Configuration">Network Lab</a>|
-| SSH Session | <a href="https://github.com/Annabelly22/System-Administration-Net-Services-I---2022FA/wiki/Linux-CentOS-Setup-and-SSH-Session">Detection Lab</a>|
+| SSH Session | <a href="https://github.com/Annabelly22/System-Administration-Net-Services-I---2022FA/wiki/Linux-CentOS-Setup-and-SSH-Session">Linux CentOS Setup and SSH Session</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
