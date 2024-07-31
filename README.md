@@ -11,7 +11,7 @@ I aim to continue learning about the different software, applications, and secur
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Enterprise Network        | <a href="[https://google.com](https://github.com/Annabelly22/System-Administration-Net-Services-I---2022FA/wiki/Lab-01---Virtual-Firewall-and-Windows-10-Configuration)">Network Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
