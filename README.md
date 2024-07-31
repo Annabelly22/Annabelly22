@@ -1,5 +1,5 @@
 # Hello, I'm Annabel Iseduwa Otutu
-<a href="[https://linkedin.com](https://www.linkedin.com/in/annabelotutu/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="(https://www.linkedin.com/in/annabelotutu/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 A lifelong student in the field of Cybersecurity. Areas such as Cloud, Network Security and Technical Writing at the enterprise level interest me. I hope to leverage those interests to balance the use of people, policy, and technology for the protection of information and information systems.
 
