@@ -15,7 +15,8 @@ I aim to continue learning about the different software, applications, and secur
 | SSH Session | <a href="https://github.com/Annabelly22/System-Administration-Net-Services-I---2022FA/wiki/Linux-CentOS-Setup-and-SSH-Session">Linux CentOS Setup and SSH Session</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Network Firewall                 | <a href="https://github.com/Annabelly22/SEC-350-01-02-ENTERPRISE-AND-NETWORK-SECURITY-CONTROLS/wiki/Network-Firewalls">Network Firewall Creation</a>|
+| Network Firewall                 | <a href="https://github.com/Annabelly22/SEC-350-01-02-ENTERPRISE-AND-NETWORK-SECURITY-CONTROLS/wiki/Network-Firewalls">Network Firewall Creation</a>
+[|]<a href="https://github.com/Annabelly22/SEC-350-01-02-ENTERPRISE-AND-NETWORK-SECURITY-CONTROLS/wiki/Firewall-config-for-Fw01">Network Firewall Configuration</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/Annabelly22/Automation-and-Scripting-SYS-320-/wiki/Linux-Audit-Script-Update">Linux Audit Script</a>|
 
 ## Tools
