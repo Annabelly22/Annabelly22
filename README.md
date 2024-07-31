@@ -16,7 +16,7 @@ I aim to continue learning about the different software, applications, and secur
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Annabelly22/Automation-and-Scripting-SYS-320-/wiki/Linux-Audit-Script-Update">Linux Audit Script</a>|
 
 ## Tools
 Some tools I have utilized include:
