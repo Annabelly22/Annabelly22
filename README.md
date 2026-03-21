@@ -5,8 +5,7 @@ A lifelong student in the field of Cybersecurity. Areas such as Cloud, Network S
 
 ## Objective
 
-I aim to continue learning about the different software, applications, and security processes of cybersecurity even as I get into the field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. 
-
+I aim to continue learning about the different software, applications, and security processes of cybersecurity, even as I progress in the field. There is always a project waiting to be built:)
 ## Skills
 
 | Skill                                         | Associated Project         |
