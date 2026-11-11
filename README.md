@@ -1,52 +1,82 @@
-# Hello, I'm Annabel I. Otutu
-<a href="https://www.linkedin.com/in/annabelotutu/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Annabel Otutu
 
-A lifelong student in the field of Cybersecurity. Areas such as Cloud, Network Security and Technical Writing at the enterprise level interest me. I hope to leverage those interests to balance the use of people, policy, and technology for the protection of information and information systems.
+**Front-End Developer | Cybersecurity Professional**
 
-## Objective
+Building production web applications and securing enterprise systems. I ship real products, not just tutorials.
 
-I aim to continue learning about the different software, applications, and security processes of cybersecurity, even as I progress in the field. There is always a project waiting to be built:)
-## Skills
+---
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Enterprise Networking        | <a href="https://github.com/Annabelly22/System-Administration-Net-Services-I---2022FA/wiki/Lab-01---Virtual-Firewall-and-Windows-10-Configuration">Network Lab</a>|
-| SSH Session | <a href="https://github.com/Annabelly22/System-Administration-Net-Services-I---2022FA/wiki/Linux-CentOS-Setup-and-SSH-Session">Linux CentOS Setup and SSH Session</a>|
-| Network Firewall                 | <a href="https://github.com/Annabelly22/SEC-350-01-02-ENTERPRISE-AND-NETWORK-SECURITY-CONTROLS/wiki/Network-Firewalls">Network Firewall Creation</a><br><a href="https://github.com/Annabelly22/SEC-350-01-02-ENTERPRISE-AND-NETWORK-SECURITY-CONTROLS/wiki/Firewall-config-for-Fw01">Network Firewall Configuration</a>|
-| Scripting and Automation | <a href="https://github.com/Annabelly22/Automation-and-Scripting-SYS-320-/wiki/Linux-Audit-Script-Update">Linux Audit Script</a>|
-| Nist 800-131 | <a href="https://github.com/Annabelly22/Information-Assurance/wiki/NIST-800%E2%80%90131"> Implementing NIST 800-131</a>|
-## Tools
-Some tools I have utilized include:
+## What I Build
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+### Production Web Apps
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+| Project | Stack | Description | Live |
+|---------|-------|-------------|------|
+| **GRID** | Next.js, TypeScript, Tailwind, Supabase | Personal life OS — habit tracking, meal planning, fitness programming. 700+ features. | [grid-deploy.vercel.app](https://grid-deploy.vercel.app) |
+| **RootVI** | Next.js, TypeScript, Turso, Claude API | AI-powered trading dashboard with real-time data visualization and automated signal execution. | [rootvi-deploy.vercel.app](https://rootvi-deploy.vercel.app) |
+| **CV Chameleon** | Next.js, React, TypeScript | AI resume tailoring tool that mirrors job posting language. | [cv-deploy-drab.vercel.app](https://cv-deploy-drab.vercel.app) |
+| **BlueGum** | Next.js, Make.com, API integrations | Automation platform for turning ideas into Gumroad products. | [bluegum-deploy.vercel.app](https://bluegum-deploy.vercel.app) |
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+### Algorithmic Trading & Automation
 
-## Certifications
+| Project | Stack | Description |
+|---------|-------|-------------|
+| **MT5 Compiler** | GitHub Actions, MQL5, Windows Runner | Cloud compilation pipeline for MetaTrader 5 Expert Advisors |
+| **Trading EAs** | MQL5, Python | Custom algorithmic trading strategies for forex and gold markets |
 
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
+---
 
-## Projects
-- Network Firewall 
-- Scripting and Automation for Threat Mitigation 
-  
-<!--
-**Annabelly22/Annabelly22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
 
+**Front-End**
+```
+JavaScript (ES6+) · TypeScript · React · Next.js · Tailwind CSS · HTML5 · CSS3
+```
+
+**Back-End & Data**
+```
+Node.js · Python · Supabase (PostgreSQL) · Turso (libSQL) · REST APIs · Webhooks
+```
+
+**DevOps & Tools**
+```
+Git · GitHub Actions · Vercel · VS Code · Playwright
+```
+
+**Cybersecurity**
+```
+Network Security · Enterprise Security Controls · NIST Frameworks · Linux/Windows Administration
+Penetration Testing · Security Documentation · Risk Management
+```
+
+---
+
+## Cybersecurity Background
+
+**B.S. Computer Networking & Cybersecurity** — Champlain College
+
+Coursework in enterprise security, network design, penetration testing, and systems administration:
+
+- SEC-350: Enterprise and Network Security Controls
+- SYS-480: Advanced Topics in Systems Administration
+- NET-330: Network Design
+- SYS-320: Automation and Scripting (PowerShell, Bash)
+- Ethical Hacking & Penetration Testing
+
+Professional experience includes security documentation at Microsoft and compliance writing under NIST SP 800-37 at the EPA.
+
+---
+
+## Currently
+
+- Shipping features on GRID and RootVI
+- Learning Ember.js
+- Open to front-end and security roles (remote)
+
+---
+
+## Connect
+
+- **LinkedIn:** [linkedin.com/in/annabel-otutu](https://linkedin.com/in/annabel-otutu)
+- **Email:** annabelotutu@gmail.com
+- **Location:** Remote (US Citizen based in Nigeria, UTC+1)
